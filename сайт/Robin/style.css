@@ -1,0 +1,25 @@
+header {
+    width: auto;
+    height: 100px;
+    background-color: black;
+    margin-bottom: 300px;
+    display:flex;
+    justify-content: end;
+    
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    
+}
+
+ul li {
+    display: flex;
+    padding: 10px;
+}
+
+.logo {
+   
+background: #FFFFFF;
+}
